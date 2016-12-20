@@ -1,0 +1,3 @@
+[submodule "src/react-voice-components"]
+	path = src/react-voice-components
+	url = git@github.com:grvcoelho/react-voice-components.git
